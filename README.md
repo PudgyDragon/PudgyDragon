@@ -8,7 +8,7 @@ purplepudgydragon@gmail.com
 
 ## Experience
 
-I have experience with several tools, many of which I have implemented and currently admin on a corporate network.
+I have experience with several tools, many of which I have implemented and currently admin on an enterprise network.
 
 <table>
   <tr>
