@@ -13,82 +13,130 @@ I have experience with several tools, many of which I have implemented and curre
 <table>
   <tr>
     <td>
-      <a href="#">IBM QRadar</a>
+      <p>IBM QRadar</p>
     </td>
     <td>
       <p>Implementation - Administration - User</p>
     </td>
+    <td>
+      <a href="#">My Repository</a>
+    </td>
+    <td>
+      <a href="#">Visit Vendor</a>
+    </td>
   </tr>
   <tr>
     <td>
-      <a href="#">Splunk</a>
+      <p>Splunk</p>
     </td>
     <td>
       <p>User</p>
     </td>
+    <td></td>
+    <td>
+      <a href="#">Visit Vendor</a>
+    </td>
   </tr>
   <tr>
     <td>
-      <a href="#">Symantec Security Analytics</a>
+      <p>Symantec Security Analytics</p>
     </td>
     <td>
       <p>Implementation - Administration - User</p>
     </td>
+    <td>
+      <a href="#">My Repository</a>
+    </td>
+    <td>
+      <a href="#">Visit Vendor</a>
+    </td>
   </tr>
   <tr>
     <td>
-      <a href="#">Tenable ACAS</a>
+      <p>Tenable ACAS</p>
     </td>
     <td>
       <p>User</p>
     </td>
+    <td></td>
+    <td>
+      <a href="#">Visit Vendor</a>
+    </td>
   </tr>
   <tr>
     <td>
-      <a href="#">NIKSUN</a>
+      <p>NIKSUN</p>
     </td>
     <td>
       <p>Administration</p>
     </td>
+    <td></td>
+    <td>
+      <a href="#">Visit Vendor</a>
+    </td>
   </tr>
   <tr>
     <td>
-      <a href="#">MISP</a>
+      <p>MISP</p>
     </td>
     <td>
       <p>Implementation - Administration</p>
     </td>
+    <td>
+      <a href="#">My Repository</a>
+    </td>
+    <td>
+      <a href="#">Visit Vendor</a>
+    </td>
   </tr>
   <tr>
     <td>
-      <a href="#">Corelight</a>
+      <p>Corelight</p>
     </td>
     <td>
       <p>Implementation - Administration</p>
     </td>
+    <td>
+      <a href="#">My Repository</a>
+    </td>
+    <td>
+      <a href="#">Visit Vendor</a>
+    </td>
   </tr>
   <tr>
     <td>
-      <a href="#">Trellix ePolicy Orchestrator (ePO)</a>
+      <p>Trellix ePolicy Orchestrator (ePO)</p>
     </td>
     <td>
       <p>User</p>
     </td>
+    <td></td>
+    <td>
+      <a href="#">Visit Vendor</a>
+    </td>
   </tr>
   <tr>
     <td>
-      <a href="#">Cortex Xpanse</a>
+      <p>Cortex Xpanse</p>
     </td>
     <td>
       <p>User</p>
     </td>
+    <td></td>
+    <td>
+      <a href="#">Visit Vendor</a>
+    </td>
   </tr>
   <tr>
     <td>
-      <a href="#">TippingPoint Security Management System</a>
+      <p>TippingPoint Security Management System</p>
     </td>
     <td>
       <p>Administration - User</p>
+    </td>
+    <td></td>
+    <td>
+      <a href="#">Visit Vendor</a>
     </td>
   </tr>
 </table>
