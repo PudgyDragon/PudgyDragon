@@ -19,10 +19,10 @@ I have experience with several tools, many of which I have implemented and curre
       <p>Implementation - Administration - User</p>
     </td>
     <td>
-      <a href="#">My Repository</a>
+      <a href="https://github.com/PudgyDragon/QRadar">My Repository</a>
     </td>
     <td>
-      <a href="#">Visit Vendor</a>
+      <a href="https://www.ibm.com/products/qradar-siem">Visit Vendor</a>
     </td>
   </tr>
   <tr>
@@ -34,7 +34,7 @@ I have experience with several tools, many of which I have implemented and curre
     </td>
     <td></td>
     <td>
-      <a href="#">Visit Vendor</a>
+      <a href="https://www.splunk.com/">Visit Vendor</a>
     </td>
   </tr>
   <tr>
@@ -45,10 +45,10 @@ I have experience with several tools, many of which I have implemented and curre
       <p>Implementation - Administration - User</p>
     </td>
     <td>
-      <a href="#">My Repository</a>
+      <a href="https://github.com/PudgyDragon/Security_Analytics">My Repository</a>
     </td>
     <td>
-      <a href="#">Visit Vendor</a>
+      <a href="https://www.broadcom.com/products/advanced-threat-protection/network-forensics-security-analytics">Visit Vendor</a>
     </td>
   </tr>
   <tr>
@@ -60,7 +60,7 @@ I have experience with several tools, many of which I have implemented and curre
     </td>
     <td></td>
     <td>
-      <a href="#">Visit Vendor</a>
+      <a href="https://www.tenable.com/">Visit Vendor</a>
     </td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@ I have experience with several tools, many of which I have implemented and curre
     </td>
     <td></td>
     <td>
-      <a href="#">Visit Vendor</a>
+      <a href="https://www.niksun.com/">Visit Vendor</a>
     </td>
   </tr>
   <tr>
@@ -83,10 +83,10 @@ I have experience with several tools, many of which I have implemented and curre
       <p>Implementation - Administration</p>
     </td>
     <td>
-      <a href="#">My Repository</a>
+      <a href="https://github.com/PudgyDragon/Dockered_Applications">My Repository</a>
     </td>
     <td>
-      <a href="#">Visit Vendor</a>
+      <a href="https://www.misp-project.org/">Visit Vendor</a>
     </td>
   </tr>
   <tr>
@@ -97,10 +97,10 @@ I have experience with several tools, many of which I have implemented and curre
       <p>Implementation - Administration</p>
     </td>
     <td>
-      <a href="#">My Repository</a>
+      <a href="https://github.com/PudgyDragon/Corelight">My Repository</a>
     </td>
     <td>
-      <a href="#">Visit Vendor</a>
+      <a href="https://corelight.com/">Visit Vendor</a>
     </td>
   </tr>
   <tr>
@@ -112,7 +112,7 @@ I have experience with several tools, many of which I have implemented and curre
     </td>
     <td></td>
     <td>
-      <a href="#">Visit Vendor</a>
+      <a href="https://www.trellix.com/products/epo/">Visit Vendor</a>
     </td>
   </tr>
   <tr>
@@ -124,7 +124,7 @@ I have experience with several tools, many of which I have implemented and curre
     </td>
     <td></td>
     <td>
-      <a href="#">Visit Vendor</a>
+      <a href="https://www.paloaltonetworks.com/cortex/cortex-xpanse">Visit Vendor</a>
     </td>
   </tr>
   <tr>
@@ -136,7 +136,7 @@ I have experience with several tools, many of which I have implemented and curre
     </td>
     <td></td>
     <td>
-      <a href="#">Visit Vendor</a>
+      <a href="https://www.trendmicro.com/en_us/business/products/network/intrusion-prevention/tipping-point-threat-protection-system.html">Visit Vendor</a>
     </td>
   </tr>
 </table>
