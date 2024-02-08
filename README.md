@@ -65,6 +65,18 @@ I have experience with several tools, many of which I have implemented and curre
   </tr>
   <tr>
     <td>
+      <p>Tenable Nessus Network Monitor</p>
+    </td>
+    <td>
+      <p>User</p>
+    </td>
+    <td></td>
+    <td>
+      <a href="https://www.tenable.com/products/nessus/nessus-network-monitor">Visit Vendor</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <p>NIKSUN</p>
     </td>
     <td>
