@@ -1,7 +1,3 @@
-<head>
-  <meta name="google-site-verification" content="9w4mZKx70pBZRgTPUYybrtaPuvJLEerxKikIH1j7j54"/>
-</head>
-
 
 ## 👋 Hi, I’m @PudgyDragon
 
