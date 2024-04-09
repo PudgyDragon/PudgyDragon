@@ -154,7 +154,7 @@ I have experience with several tools, many of which I have implemented and curre
       <a href="https://www.trendmicro.com/en_us/business/products/network/intrusion-prevention/tipping-point-threat-protection-system.html">Visit Vendor</a>
     </td>
   </tr>
-    <tr>
+  <tr>
     <td>
       <p>Proxmox</p>
     </td>
@@ -168,4 +168,17 @@ I have experience with several tools, many of which I have implemented and curre
       <a href="https://www.proxmox.com/">Visit Vendor</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <p>OpenCTI</p>
+    </td>
+    <td>
+      <p>Implementation - Administration - User</p>
+    </td>
+    <td></td>
+    <td>
+      <a href="https://docs.opencti.io/latest/">Visit Vendor</a>
+    </td>
+  </tr>
+  
 </table>
