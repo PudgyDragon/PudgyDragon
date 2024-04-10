@@ -180,5 +180,16 @@ I have experience with several tools, many of which I have implemented and curre
       <a href="https://docs.opencti.io/latest/">Visit Vendor</a>
     </td>
   </tr>
-  
+  <tr>
+    <td>
+      <p>Stealthwatch</p>
+    </td>
+    <td>
+      <p>Implementation - Administration</p>
+    </td>
+    <td></td>
+    <td>
+      <a href="https://www.cisco.com/c/en_hk/products/security/stealthwatch/index.html">Visit Vendor</a>
+    </td>
+  </tr>
 </table>
