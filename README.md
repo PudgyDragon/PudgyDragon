@@ -192,4 +192,16 @@ I have experience with several tools, many of which I have implemented and curre
       <a href="https://www.cisco.com/c/en_hk/products/security/stealthwatch/index.html">Visit Vendor</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <p>Purple Knight</p>
+    </td>
+    <td>
+      <p>Implementation - Administration - User</p>
+    </td>
+    <td></td>
+    <td>
+      <a href="https://www.semperis.com/purple-knight/">Visit Vendor</a>
+    </td>
+  </tr>
 </table>
