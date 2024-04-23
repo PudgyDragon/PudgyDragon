@@ -204,4 +204,16 @@ I have experience with several tools, many of which I have implemented and curre
       <a href="https://www.semperis.com/purple-knight/">Visit Vendor</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <p>Forest Druid</p>
+    </td>
+    <td>
+      <p>Implementation - Administration - User</p>
+    </td>
+    <td></td>
+    <td>
+      <a href="https://www.semperis.com/forest-druid/">Visit Vendor</a>
+    </td>
+  </tr>
 </table>
