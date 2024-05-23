@@ -216,4 +216,16 @@ I have experience with several tools, many of which I have implemented and curre
       <a href="https://www.semperis.com/forest-druid/">Visit Vendor</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <p>Gigamon</p>
+    </td>
+    <td>
+      <p>Administration - User</p>
+    </td>
+    <td></td>
+    <td>
+      <a href="https://www.gigamon.com/">Visit Vendor</a>
+    </td>
+  </tr>
 </table>
