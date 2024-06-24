@@ -228,6 +228,18 @@ I have experience with several tools, many of which I have implemented and curre
       <a href="https://www.gigamon.com/">Visit Vendor</a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <p>GreyNoise</p>
+    </td>
+    <td>
+      <p>User</p>
+    </td>
+    <td></td>
+    <td>
+      <a href="https://www.greynoise.io/">Visit Vendor</a>
+    </td>
+  </tr>
 </table>
 
 ## Stats
