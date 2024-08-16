@@ -243,11 +243,3 @@ I have experience with several tools, many of which I have implemented and curre
     </td>
   </tr>
 </table>
-
-## Stats
-<p align="center">
-  <img src="https://stats.quira.sh/PudgyDragon/topics-over-time?theme=dark">
-</p>
-<p align="center">
-  <img src="https://stats.quira.sh/PudgyDragon/languages-over-time?theme=dark">
-</p>
