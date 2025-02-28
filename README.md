@@ -28,18 +28,6 @@ I have experience with several tools, many of which I have implemented and curre
   </tr>
   <tr>
     <td>
-      <p>Splunk</p>
-    </td>
-    <td>
-      <p>User</p>
-    </td>
-    <td></td>
-    <td>
-      <a href="https://www.splunk.com/">Visit Vendor</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <p>Symantec Security Analytics</p>
     </td>
     <td>
@@ -52,6 +40,149 @@ I have experience with several tools, many of which I have implemented and curre
       <a href="https://www.broadcom.com/products/advanced-threat-protection/network-forensics-security-analytics">Visit Vendor</a>
     </td>
   </tr>
+    <tr>
+    <td>
+      <p>MISP</p>
+    </td>
+    <td>
+      <p>Implementation - Administration - User</p>
+    </td>
+    <td>
+      <a href="https://github.com/PudgyDragon/MISP/tree/main">My Repository</a>
+    </td>
+    <td>
+      <a href="https://www.misp-project.org/">Visit Vendor</a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <p>Proxmox</p>
+    </td>
+    <td>
+      <p>Implementation - Administration - User</p>
+    </td>
+    <td>
+      <a href="https://github.com/PudgyDragon/Proxmox">My Repository</a>
+    </td>
+    <td>
+      <a href="https://www.proxmox.com/">Visit Vendor</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Corelight</p>
+    </td>
+    <td>
+      <p>Implementation - Administration</p>
+    </td>
+    <td>
+      <a href="https://github.com/PudgyDragon/Corelight">My Repository</a>
+    </td>
+    <td>
+      <a href="https://corelight.com/">Visit Vendor</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Gigamon</p>
+    </td>
+    <td>
+      <p>Administration - User</p>
+    </td>
+    <td>
+      <a href="https://github.com/PudgyDragon/Gigamon/tree/main">My Repository</a>
+    </td>
+    <td>
+      <a href="https://www.gigamon.com/">Visit Vendor</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>NIKSUN</p>
+    </td>
+    <td>
+      <p>Administration</p>
+    </td>
+    <td>
+      <a href="https://github.com/PudgyDragon/Niksun">My Repository</a>
+    </td>
+    <td>
+      <a href="https://www.niksun.com/">Visit Vendor</a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      <p>TippingPoint Security Management System</p>
+    </td>
+    <td>
+      <p>Administration - User</p>
+    </td>
+    <td></td>
+    <td>
+      <a href="https://www.trendmicro.com/en_us/business/products/network/intrusion-prevention/tipping-point-threat-protection-system.html">Visit Vendor</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Stealthwatch</p>
+    </td>
+    <td>
+      <p>Implementation - Administration</p>
+    </td>
+    <td></td>
+    <td>
+      <a href="https://www.cisco.com/c/en_hk/products/security/stealthwatch/index.html">Visit Vendor</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>OpenCTI</p>
+    </td>
+    <td>
+      <p>Implementation - Administration - User</p>
+    </td>
+    <td></td>
+    <td>
+      <a href="https://docs.opencti.io/latest/">Visit Vendor</a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <p>Purple Knight</p>
+    </td>
+    <td>
+      <p>Implementation - Administration - User</p>
+    </td>
+    <td></td>
+    <td>
+      <a href="https://www.semperis.com/purple-knight/">Visit Vendor</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Forest Druid</p>
+    </td>
+    <td>
+      <p>Implementation - Administration - User</p>
+    </td>
+    <td></td>
+    <td>
+      <a href="https://www.semperis.com/forest-druid/">Visit Vendor</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Splunk</p>
+    </td>
+    <td>
+      <p>User</p>
+    </td>
+    <td></td>
+    <td>
+      <a href="https://www.splunk.com/">Visit Vendor</a>
+    </td>
+  </tr>  
   <tr>
     <td>
       <p>Tenable ACAS</p>
@@ -78,48 +209,6 @@ I have experience with several tools, many of which I have implemented and curre
   </tr>
   <tr>
     <td>
-      <p>NIKSUN</p>
-    </td>
-    <td>
-      <p>Administration</p>
-    </td>
-    <td>
-      <a href="https://github.com/PudgyDragon/Niksun">My Repository</a>
-    </td>
-    <td>
-      <a href="https://www.niksun.com/">Visit Vendor</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>MISP</p>
-    </td>
-    <td>
-      <p>Implementation - Administration - User</p>
-    </td>
-    <td>
-      <a href="https://github.com/PudgyDragon/MISP/tree/main">My Repository</a>
-    </td>
-    <td>
-      <a href="https://www.misp-project.org/">Visit Vendor</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Corelight</p>
-    </td>
-    <td>
-      <p>Implementation - Administration</p>
-    </td>
-    <td>
-      <a href="https://github.com/PudgyDragon/Corelight">My Repository</a>
-    </td>
-    <td>
-      <a href="https://corelight.com/">Visit Vendor</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <p>Trellix ePolicy Orchestrator (ePO)</p>
     </td>
     <td>
@@ -140,94 +229,6 @@ I have experience with several tools, many of which I have implemented and curre
     <td></td>
     <td>
       <a href="https://www.paloaltonetworks.com/cortex/cortex-xpanse">Visit Vendor</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>TippingPoint Security Management System</p>
-    </td>
-    <td>
-      <p>Administration - User</p>
-    </td>
-    <td></td>
-    <td>
-      <a href="https://www.trendmicro.com/en_us/business/products/network/intrusion-prevention/tipping-point-threat-protection-system.html">Visit Vendor</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Proxmox</p>
-    </td>
-    <td>
-      <p>Implementation - Administration - User</p>
-    </td>
-    <td>
-      <a href="https://github.com/PudgyDragon/Proxmox">My Repository</a>
-    </td>
-    <td>
-      <a href="https://www.proxmox.com/">Visit Vendor</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>OpenCTI</p>
-    </td>
-    <td>
-      <p>Implementation - Administration - User</p>
-    </td>
-    <td></td>
-    <td>
-      <a href="https://docs.opencti.io/latest/">Visit Vendor</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Stealthwatch</p>
-    </td>
-    <td>
-      <p>Implementation - Administration</p>
-    </td>
-    <td></td>
-    <td>
-      <a href="https://www.cisco.com/c/en_hk/products/security/stealthwatch/index.html">Visit Vendor</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Purple Knight</p>
-    </td>
-    <td>
-      <p>Implementation - Administration - User</p>
-    </td>
-    <td></td>
-    <td>
-      <a href="https://www.semperis.com/purple-knight/">Visit Vendor</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Forest Druid</p>
-    </td>
-    <td>
-      <p>Implementation - Administration - User</p>
-    </td>
-    <td></td>
-    <td>
-      <a href="https://www.semperis.com/forest-druid/">Visit Vendor</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Gigamon</p>
-    </td>
-    <td>
-      <p>Administration - User</p>
-    </td>
-    <td>
-      <a href="https://github.com/PudgyDragon/Gigamon/tree/main">My Repository</a>
-    </td>
-    <td>
-      <a href="https://www.gigamon.com/">Visit Vendor</a>
     </td>
   </tr>
   <tr>
