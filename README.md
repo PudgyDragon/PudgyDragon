@@ -28,6 +28,18 @@ I have experience with several tools, many of which I have implemented and curre
   </tr>
   <tr>
     <td>
+      <p>Cortex XSOAR</p>
+    </td>
+    <td>
+      <p>Implementation - Administration - User</p>
+    </td>
+    <td></td>
+    <td>
+      <a href="https://www.paloaltonetworks.com/cortex/cortex-xsoar">Visit Vendor</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <p>Symantec Security Analytics</p>
     </td>
     <td>
