@@ -12,6 +12,7 @@ purplepudgydragon@gmail.com
 I have experience with several tools, many of which I have implemented and currently admin on an enterprise network.
 
 <table align="center">
+  <th colspan="100">SIEM</th>
   <tr>
     <td>
       <p>IBM QRadar</p>
@@ -28,7 +29,20 @@ I have experience with several tools, many of which I have implemented and curre
   </tr>
   <tr>
     <td>
-      <p>Cortex XSOAR</p>
+      <p>Splunk</p>
+    </td>
+    <td>
+      <p>User</p>
+    </td>
+    <td></td>
+    <td>
+      <a href="https://www.splunk.com/">Visit Vendor</a>
+    </td>
+  </tr>
+  <th colspan="100">SOAR</th>
+  <tr>
+    <td>
+      <p>Palo Alto XSOAR</p>
     </td>
     <td>
       <p>Implementation - Administration - User</p>
@@ -40,6 +54,7 @@ I have experience with several tools, many of which I have implemented and curre
       <a href="https://www.paloaltonetworks.com/cortex/cortex-xsoar">Visit Vendor</a>
     </td>
   </tr>
+  <th colspan="100">PCAP</th>
   <tr>
     <td>
       <p>Symantec Security Analytics</p>
@@ -52,34 +67,6 @@ I have experience with several tools, many of which I have implemented and curre
     </td>
     <td>
       <a href="https://www.broadcom.com/products/advanced-threat-protection/network-forensics-security-analytics">Visit Vendor</a>
-    </td>
-  </tr>
-    <tr>
-    <td>
-      <p>MISP</p>
-    </td>
-    <td>
-      <p>Implementation - Administration - User</p>
-    </td>
-    <td>
-      <a href="https://github.com/PudgyDragon/MISP/tree/main">My Repository</a>
-    </td>
-    <td>
-      <a href="https://www.misp-project.org/">Visit Vendor</a>
-    </td>
-  </tr>
-    <tr>
-    <td>
-      <p>Proxmox</p>
-    </td>
-    <td>
-      <p>Implementation - Administration - User</p>
-    </td>
-    <td>
-      <a href="https://github.com/PudgyDragon/Proxmox">My Repository</a>
-    </td>
-    <td>
-      <a href="https://www.proxmox.com/">Visit Vendor</a>
     </td>
   </tr>
   <tr>
@@ -98,20 +85,6 @@ I have experience with several tools, many of which I have implemented and curre
   </tr>
   <tr>
     <td>
-      <p>Gigamon</p>
-    </td>
-    <td>
-      <p>Administration - User</p>
-    </td>
-    <td>
-      <a href="https://github.com/PudgyDragon/Gigamon/tree/main">My Repository</a>
-    </td>
-    <td>
-      <a href="https://www.gigamon.com/">Visit Vendor</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <p>NIKSUN</p>
     </td>
     <td>
@@ -124,10 +97,10 @@ I have experience with several tools, many of which I have implemented and curre
       <a href="https://www.niksun.com/">Visit Vendor</a>
     </td>
   </tr>
-  
+  <th colspan="100">IDS/IPS</th>
   <tr>
     <td>
-      <p>TippingPoint Security Management System</p>
+      <p>TippingPoint</p>
     </td>
     <td>
       <p>Administration - User</p>
@@ -137,16 +110,19 @@ I have experience with several tools, many of which I have implemented and curre
       <a href="https://www.trendmicro.com/en_us/business/products/network/intrusion-prevention/tipping-point-threat-protection-system.html">Visit Vendor</a>
     </td>
   </tr>
+  <th colspan="100">Threat Intelligence</th>
   <tr>
     <td>
-      <p>Stealthwatch</p>
+      <p>MISP</p>
     </td>
     <td>
-      <p>Implementation - Administration</p>
+      <p>Implementation - Administration - User</p>
     </td>
-    <td></td>
     <td>
-      <a href="https://www.cisco.com/c/en_hk/products/security/stealthwatch/index.html">Visit Vendor</a>
+      <a href="https://github.com/PudgyDragon/MISP/tree/main">My Repository</a>
+    </td>
+    <td>
+      <a href="https://www.misp-project.org/">Visit Vendor</a>
     </td>
   </tr>
   <tr>
@@ -161,7 +137,112 @@ I have experience with several tools, many of which I have implemented and curre
       <a href="https://docs.opencti.io/latest/">Visit Vendor</a>
     </td>
   </tr>
-    <tr>
+  <tr>
+    <td>
+      <p>GreyNoise</p>
+    </td>
+    <td>
+      <p>User</p>
+    </td>
+    <td></td>
+    <td>
+      <a href="https://www.greynoise.io/">Visit Vendor</a>
+    </td>
+  </tr>
+  <th colspan="100">Network Visibility</th>
+  <tr>
+    <td>
+      <p>Gigamon</p>
+    </td>
+    <td>
+      <p>Administration - User</p>
+    </td>
+    <td>
+      <a href="https://github.com/PudgyDragon/Gigamon/tree/main">My Repository</a>
+    </td>
+    <td>
+      <a href="https://www.gigamon.com/">Visit Vendor</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Tenable Nessus Network Monitor</p>
+    </td>
+    <td>
+      <p>User</p>
+    </td>
+    <td></td>
+    <td>
+      <a href="https://www.tenable.com/products/nessus/nessus-network-monitor">Visit Vendor</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Stealthwatch</p>
+    </td>
+    <td>
+      <p>Implementation - Administration</p>
+    </td>
+    <td></td>
+    <td>
+      <a href="https://www.cisco.com/c/en_hk/products/security/stealthwatch/index.html">Visit Vendor</a>
+    </td>
+  </tr>
+  <th colspan="100">Vulnerability and Risk Detection</th>
+  <tr>
+    <td>
+      <p>Tenable ACAS</p>
+    </td>
+    <td>
+      <p>User</p>
+    </td>
+    <td></td>
+    <td>
+      <a href="https://www.tenable.com/">Visit Vendor</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Cortex Xpanse</p>
+    </td>
+    <td>
+      <p>User</p>
+    </td>
+    <td></td>
+    <td>
+      <a href="https://www.paloaltonetworks.com/cortex/cortex-xpanse">Visit Vendor</a>
+    </td>
+  </tr>
+  <th colspan="100">Endpoint</th>
+  <tr>
+    <td>
+      <p>Trellix ePolicy Orchestrator (ePO)</p>
+    </td>
+    <td>
+      <p>User</p>
+    </td>
+    <td></td>
+    <td>
+      <a href="https://www.trellix.com/products/epo/">Visit Vendor</a>
+    </td>
+  </tr>
+  <th colspan="100">Virtual Environments</th>
+  <tr>
+    <td>
+      <p>Proxmox</p>
+    </td>
+    <td>
+      <p>Implementation - Administration - User</p>
+    </td>
+    <td>
+      <a href="https://github.com/PudgyDragon/Proxmox">My Repository</a>
+    </td>
+    <td>
+      <a href="https://www.proxmox.com/">Visit Vendor</a>
+    </td>
+  </tr>
+  <th colspan="100">Active Directory</th>
+  <tr>
     <td>
       <p>Purple Knight</p>
     </td>
@@ -183,78 +264,6 @@ I have experience with several tools, many of which I have implemented and curre
     <td></td>
     <td>
       <a href="https://www.semperis.com/forest-druid/">Visit Vendor</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Splunk</p>
-    </td>
-    <td>
-      <p>User</p>
-    </td>
-    <td></td>
-    <td>
-      <a href="https://www.splunk.com/">Visit Vendor</a>
-    </td>
-  </tr>  
-  <tr>
-    <td>
-      <p>Tenable ACAS</p>
-    </td>
-    <td>
-      <p>User</p>
-    </td>
-    <td></td>
-    <td>
-      <a href="https://www.tenable.com/">Visit Vendor</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Tenable Nessus Network Monitor</p>
-    </td>
-    <td>
-      <p>User</p>
-    </td>
-    <td></td>
-    <td>
-      <a href="https://www.tenable.com/products/nessus/nessus-network-monitor">Visit Vendor</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Trellix ePolicy Orchestrator (ePO)</p>
-    </td>
-    <td>
-      <p>User</p>
-    </td>
-    <td></td>
-    <td>
-      <a href="https://www.trellix.com/products/epo/">Visit Vendor</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Cortex Xpanse</p>
-    </td>
-    <td>
-      <p>User</p>
-    </td>
-    <td></td>
-    <td>
-      <a href="https://www.paloaltonetworks.com/cortex/cortex-xpanse">Visit Vendor</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>GreyNoise</p>
-    </td>
-    <td>
-      <p>User</p>
-    </td>
-    <td></td>
-    <td>
-      <a href="https://www.greynoise.io/">Visit Vendor</a>
     </td>
   </tr>
 </table>
