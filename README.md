@@ -216,6 +216,18 @@ I have experience with several tools, many of which I have implemented and curre
   <th colspan="100">Endpoint</th>
   <tr>
     <td>
+      <p>Microsoft Defender for Endpoint (MDE)</p>
+    </td>
+    <td>
+      <p>User</p>
+    </td>
+    <td></td>
+    <td>
+      <a href=https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint">Visit Vendor</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <p>Trellix ePolicy Orchestrator (ePO)</p>
     </td>
     <td>
