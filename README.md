@@ -157,7 +157,7 @@ I have experience with several tools, many of which I have implemented and curre
       <p>Gigamon</p>
     </td>
     <td>
-      <p>Administration - User</p>
+      <p>Implementation - Administration - User</p>
     </td>
     <td>
       <a href="https://github.com/PudgyDragon/Gigamon/tree/main">My Repository</a>
